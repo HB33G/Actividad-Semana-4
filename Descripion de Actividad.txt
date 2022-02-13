@@ -1,0 +1,16 @@
+Realizar “entrevista” en la que se pueda obtener información que afecte al total de la cotización.
+
+
+1.Preguntar su nombre
+2.Preguntar edad (Asegurarse que la persona es mayor de edad,si no lo es no considerar.)(Si su edad es mayor a 18 lo consideramos, de ello parten los diferentes recargos.)
+3.Preguntar si  está casado.
+4.Si su respuesta es sí aplicar recargo por la esposa.
+(En caso contrario, seguir con la siguiente pregunta).
+5.Preguntar si tiene hijos 
+6.Si su respuesta es sí, preguntar cuántos. (considerar recargo por cada hijo que tenga) En caso contrario proseguir con la entrevista.
+7.Sumar los diferentes recargos que hubo según las respuestas del usuario.
+8.Dar Total de la Cotización.
+
+
+
+(AVISO QUE NO LOGRE QUE SE AGREGARÁ EL RECARGO DE LOS HIJOS, POR FAVOR INDICAR COMO SE DEVIA HACER O EN QUE ME EQUIVOQUE )
